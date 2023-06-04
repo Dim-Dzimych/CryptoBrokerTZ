@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoBroker.Domain", "CryptoBroker.Domain\CryptoBroker.Domain.csproj", "{360D5BBE-4622-41CF-B421-C1B29DEE1042}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoBroker.Application", "CryptoBroker.Application\CryptoBroker.Application.csproj", "{D34BD32D-AA67-45CB-8D0D-56BFC6C6F2AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoBroker.Infrastructure", "CryptoBroker.Infrastructure\CryptoBroker.Infrastructure.csproj", "{A5E0BA29-FC41-4B8B-984B-AD76C0E600A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoBroker.WinForms", "CryptoBroker.WinForms\CryptoBroker.WinForms.csproj", "{D474D1E2-9609-41B2-914C-D8142E6D9C6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{360D5BBE-4622-41CF-B421-C1B29DEE1042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{360D5BBE-4622-41CF-B421-C1B29DEE1042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{360D5BBE-4622-41CF-B421-C1B29DEE1042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{360D5BBE-4622-41CF-B421-C1B29DEE1042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D34BD32D-AA67-45CB-8D0D-56BFC6C6F2AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34BD32D-AA67-45CB-8D0D-56BFC6C6F2AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34BD32D-AA67-45CB-8D0D-56BFC6C6F2AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34BD32D-AA67-45CB-8D0D-56BFC6C6F2AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5E0BA29-FC41-4B8B-984B-AD76C0E600A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5E0BA29-FC41-4B8B-984B-AD76C0E600A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5E0BA29-FC41-4B8B-984B-AD76C0E600A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5E0BA29-FC41-4B8B-984B-AD76C0E600A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D474D1E2-9609-41B2-914C-D8142E6D9C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D474D1E2-9609-41B2-914C-D8142E6D9C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D474D1E2-9609-41B2-914C-D8142E6D9C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D474D1E2-9609-41B2-914C-D8142E6D9C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

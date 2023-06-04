@@ -1,0 +1,12 @@
+C:\Projects\CryptoBroker\CryptoBroker.Application\bin\Debug\net7.0\CryptoBroker.Application.deps.json
+C:\Projects\CryptoBroker\CryptoBroker.Application\bin\Debug\net7.0\CryptoBroker.Application.dll
+C:\Projects\CryptoBroker\CryptoBroker.Application\bin\Debug\net7.0\CryptoBroker.Application.pdb
+C:\Projects\CryptoBroker\CryptoBroker.Application\obj\Debug\net7.0\CryptoBroker.Application.csproj.AssemblyReference.cache
+C:\Projects\CryptoBroker\CryptoBroker.Application\obj\Debug\net7.0\CryptoBroker.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CryptoBroker\CryptoBroker.Application\obj\Debug\net7.0\CryptoBroker.Application.AssemblyInfoInputs.cache
+C:\Projects\CryptoBroker\CryptoBroker.Application\obj\Debug\net7.0\CryptoBroker.Application.AssemblyInfo.cs
+C:\Projects\CryptoBroker\CryptoBroker.Application\obj\Debug\net7.0\CryptoBroker.Application.csproj.CoreCompileInputs.cache
+C:\Projects\CryptoBroker\CryptoBroker.Application\obj\Debug\net7.0\CryptoBroker.Application.dll
+C:\Projects\CryptoBroker\CryptoBroker.Application\obj\Debug\net7.0\refint\CryptoBroker.Application.dll
+C:\Projects\CryptoBroker\CryptoBroker.Application\obj\Debug\net7.0\CryptoBroker.Application.pdb
+C:\Projects\CryptoBroker\CryptoBroker.Application\obj\Debug\net7.0\ref\CryptoBroker.Application.dll

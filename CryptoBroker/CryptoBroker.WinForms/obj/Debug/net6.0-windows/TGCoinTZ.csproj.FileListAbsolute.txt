@@ -1,0 +1,34 @@
+C:\Users\dzmitryhastsilovich\source\repos2022\TGCoinTZ\TGCoinTZ\bin\Debug\net6.0-windows\TGCoinTZ.exe
+C:\Users\dzmitryhastsilovich\source\repos2022\TGCoinTZ\TGCoinTZ\bin\Debug\net6.0-windows\TGCoinTZ.deps.json
+C:\Users\dzmitryhastsilovich\source\repos2022\TGCoinTZ\TGCoinTZ\bin\Debug\net6.0-windows\TGCoinTZ.runtimeconfig.json
+C:\Users\dzmitryhastsilovich\source\repos2022\TGCoinTZ\TGCoinTZ\bin\Debug\net6.0-windows\TGCoinTZ.dll
+C:\Users\dzmitryhastsilovich\source\repos2022\TGCoinTZ\TGCoinTZ\bin\Debug\net6.0-windows\TGCoinTZ.pdb
+C:\Users\dzmitryhastsilovich\source\repos2022\TGCoinTZ\TGCoinTZ\obj\Debug\net6.0-windows\TGCoinTZ.csproj.AssemblyReference.cache
+C:\Users\dzmitryhastsilovich\source\repos2022\TGCoinTZ\TGCoinTZ\obj\Debug\net6.0-windows\TGCoinTZ.Form1.resources
+C:\Users\dzmitryhastsilovich\source\repos2022\TGCoinTZ\TGCoinTZ\obj\Debug\net6.0-windows\TGCoinTZ.csproj.GenerateResource.cache
+C:\Users\dzmitryhastsilovich\source\repos2022\TGCoinTZ\TGCoinTZ\obj\Debug\net6.0-windows\TGCoinTZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dzmitryhastsilovich\source\repos2022\TGCoinTZ\TGCoinTZ\obj\Debug\net6.0-windows\TGCoinTZ.AssemblyInfoInputs.cache
+C:\Users\dzmitryhastsilovich\source\repos2022\TGCoinTZ\TGCoinTZ\obj\Debug\net6.0-windows\TGCoinTZ.AssemblyInfo.cs
+C:\Users\dzmitryhastsilovich\source\repos2022\TGCoinTZ\TGCoinTZ\obj\Debug\net6.0-windows\TGCoinTZ.csproj.CoreCompileInputs.cache
+C:\Users\dzmitryhastsilovich\source\repos2022\TGCoinTZ\TGCoinTZ\obj\Debug\net6.0-windows\TGCoinTZ.dll
+C:\Users\dzmitryhastsilovich\source\repos2022\TGCoinTZ\TGCoinTZ\obj\Debug\net6.0-windows\refint\TGCoinTZ.dll
+C:\Users\dzmitryhastsilovich\source\repos2022\TGCoinTZ\TGCoinTZ\obj\Debug\net6.0-windows\TGCoinTZ.pdb
+C:\Users\dzmitryhastsilovich\source\repos2022\TGCoinTZ\TGCoinTZ\obj\Debug\net6.0-windows\TGCoinTZ.genruntimeconfig.cache
+C:\Users\dzmitryhastsilovich\source\repos2022\TGCoinTZ\TGCoinTZ\obj\Debug\net6.0-windows\ref\TGCoinTZ.dll
+C:\Users\rave9\OneDrive\Рабочий стол\TGCoinTZ\TGCoinTZ\bin\Debug\net6.0-windows\TGCoinTZ.exe
+C:\Users\rave9\OneDrive\Рабочий стол\TGCoinTZ\TGCoinTZ\bin\Debug\net6.0-windows\TGCoinTZ.deps.json
+C:\Users\rave9\OneDrive\Рабочий стол\TGCoinTZ\TGCoinTZ\bin\Debug\net6.0-windows\TGCoinTZ.runtimeconfig.json
+C:\Users\rave9\OneDrive\Рабочий стол\TGCoinTZ\TGCoinTZ\bin\Debug\net6.0-windows\TGCoinTZ.dll
+C:\Users\rave9\OneDrive\Рабочий стол\TGCoinTZ\TGCoinTZ\bin\Debug\net6.0-windows\TGCoinTZ.pdb
+C:\Users\rave9\OneDrive\Рабочий стол\TGCoinTZ\TGCoinTZ\obj\Debug\net6.0-windows\TGCoinTZ.csproj.AssemblyReference.cache
+C:\Users\rave9\OneDrive\Рабочий стол\TGCoinTZ\TGCoinTZ\obj\Debug\net6.0-windows\TGCoinTZ.Form1.resources
+C:\Users\rave9\OneDrive\Рабочий стол\TGCoinTZ\TGCoinTZ\obj\Debug\net6.0-windows\TGCoinTZ.csproj.GenerateResource.cache
+C:\Users\rave9\OneDrive\Рабочий стол\TGCoinTZ\TGCoinTZ\obj\Debug\net6.0-windows\TGCoinTZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rave9\OneDrive\Рабочий стол\TGCoinTZ\TGCoinTZ\obj\Debug\net6.0-windows\TGCoinTZ.AssemblyInfoInputs.cache
+C:\Users\rave9\OneDrive\Рабочий стол\TGCoinTZ\TGCoinTZ\obj\Debug\net6.0-windows\TGCoinTZ.AssemblyInfo.cs
+C:\Users\rave9\OneDrive\Рабочий стол\TGCoinTZ\TGCoinTZ\obj\Debug\net6.0-windows\TGCoinTZ.csproj.CoreCompileInputs.cache
+C:\Users\rave9\OneDrive\Рабочий стол\TGCoinTZ\TGCoinTZ\obj\Debug\net6.0-windows\TGCoinTZ.dll
+C:\Users\rave9\OneDrive\Рабочий стол\TGCoinTZ\TGCoinTZ\obj\Debug\net6.0-windows\refint\TGCoinTZ.dll
+C:\Users\rave9\OneDrive\Рабочий стол\TGCoinTZ\TGCoinTZ\obj\Debug\net6.0-windows\TGCoinTZ.pdb
+C:\Users\rave9\OneDrive\Рабочий стол\TGCoinTZ\TGCoinTZ\obj\Debug\net6.0-windows\TGCoinTZ.genruntimeconfig.cache
+C:\Users\rave9\OneDrive\Рабочий стол\TGCoinTZ\TGCoinTZ\obj\Debug\net6.0-windows\ref\TGCoinTZ.dll

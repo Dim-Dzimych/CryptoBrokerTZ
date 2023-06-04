@@ -1,0 +1,17 @@
+C:\Projects\CryptoBroker\CryptoBroker.Infrastructure\bin\Debug\net7.0\CryptoBroker.Infrastructure.deps.json
+C:\Projects\CryptoBroker\CryptoBroker.Infrastructure\bin\Debug\net7.0\CryptoBroker.Infrastructure.dll
+C:\Projects\CryptoBroker\CryptoBroker.Infrastructure\bin\Debug\net7.0\CryptoBroker.Infrastructure.pdb
+C:\Projects\CryptoBroker\CryptoBroker.Infrastructure\bin\Debug\net7.0\CryptoBroker.Application.dll
+C:\Projects\CryptoBroker\CryptoBroker.Infrastructure\bin\Debug\net7.0\CryptoBroker.Domain.dll
+C:\Projects\CryptoBroker\CryptoBroker.Infrastructure\bin\Debug\net7.0\CryptoBroker.Application.pdb
+C:\Projects\CryptoBroker\CryptoBroker.Infrastructure\bin\Debug\net7.0\CryptoBroker.Domain.pdb
+C:\Projects\CryptoBroker\CryptoBroker.Infrastructure\obj\Debug\net7.0\CryptoBroker.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\CryptoBroker\CryptoBroker.Infrastructure\obj\Debug\net7.0\CryptoBroker.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CryptoBroker\CryptoBroker.Infrastructure\obj\Debug\net7.0\CryptoBroker.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\CryptoBroker\CryptoBroker.Infrastructure\obj\Debug\net7.0\CryptoBroker.Infrastructure.AssemblyInfo.cs
+C:\Projects\CryptoBroker\CryptoBroker.Infrastructure\obj\Debug\net7.0\CryptoBroker.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\CryptoBroker\CryptoBroker.Infrastructure\obj\Debug\net7.0\CryptoBroker.Infrastructure.csproj.CopyComplete
+C:\Projects\CryptoBroker\CryptoBroker.Infrastructure\obj\Debug\net7.0\CryptoBroker.Infrastructure.dll
+C:\Projects\CryptoBroker\CryptoBroker.Infrastructure\obj\Debug\net7.0\refint\CryptoBroker.Infrastructure.dll
+C:\Projects\CryptoBroker\CryptoBroker.Infrastructure\obj\Debug\net7.0\CryptoBroker.Infrastructure.pdb
+C:\Projects\CryptoBroker\CryptoBroker.Infrastructure\obj\Debug\net7.0\ref\CryptoBroker.Infrastructure.dll

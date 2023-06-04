@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "gI2U7A6bj7o8i8oCnLVTXWC9b4n48C+Gf3UifN9gCSxFbo5a++fk/gzuWifCF7iSoo+6kYOCa0oH6Hsc9G69lA==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Desktop\\CryptoBroker\\CryptoBroker\\CryptoBroker.Application\\CryptoBroker.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dzmitryhastsilovich\\.nuget\\packages\\binance.net\\8.6.2\\binance.net.8.6.2.nupkg.sha512",
+    "C:\\Users\\dzmitryhastsilovich\\.nuget\\packages\\bybit.net\\2.0.3\\bybit.net.2.0.3.nupkg.sha512",
+    "C:\\Users\\dzmitryhastsilovich\\.nuget\\packages\\cryptoexchange.net\\5.4.3\\cryptoexchange.net.5.4.3.nupkg.sha512",
+    "C:\\Users\\dzmitryhastsilovich\\.nuget\\packages\\kucoin.net\\4.3.3\\kucoin.net.4.3.3.nupkg.sha512",
+    "C:\\Users\\dzmitryhastsilovich\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.0\\microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\dzmitryhastsilovich\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.0\\microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\dzmitryhastsilovich\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
